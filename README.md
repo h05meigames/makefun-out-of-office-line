@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/h05meigames/makefun-out-of-office-line/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 [![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/h05meigames/makefun-out-of-office-line/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 
-Entry for the [make.fun bounty "The Funniest Out-of-Office"](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf) — one line, at most 140 characters, the funniest out-of-office message. It reads like a real auto-reply a person could actually set: away until Tuesday, and the joke is that the cat minding the inbox has already approved everything and shredded the urgent mail.
+Entry for the [make.fun bounty "The Funniest Out-of-Office"](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf) — one line, at most 140 characters, the funniest out-of-office message. It reads like a real auto-reply a person could actually set: away until Tuesday, and the joke turns on itself — the out-of-office reply is out of the office too, so all you get is an automated shrug.
 
 Try make.fun with my referral: https://make.fun/r/0ene8b3q
 
 ## The line
 
-> Out of office until Tuesday. My cat is watching my inbox and has approved all your emails — the urgent ones got shredded.
+> I'm away until Tuesday. My out-of-office reply is out of the office too, so please accept this automated shrug instead.
 
 ## How it works
 

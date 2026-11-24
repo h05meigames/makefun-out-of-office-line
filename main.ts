@@ -7,7 +7,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "Out of office until Tuesday. My cat is watching my inbox and has approved all your emails — the urgent ones got shredded.";
+  "I'm away until Tuesday. My out-of-office reply is out of the office too, so please accept this automated shrug instead.";
 
 // Guard: the bounty caps the entry at 140 characters. Count code
 // points (not UTF-16 units) so multi-byte characters are measured
